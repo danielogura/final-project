@@ -16,8 +16,8 @@ In this project, we will:
 2. Perform exploratory data analysis, including visualizations such as:
    - Distribution of speeches over time.
    - Word cloud of common terms.
-   - Frequency of speeches by each president or political figure.
-   - Initial sentiment analysis overview using VADER.
+   - Frequency of speeches by each president.
+   - Sentiment analysis overview.
 3. Conduct a detailed analysis on the frequency and context of discussions on democracy and governance using NLP techniques.
 4. Identify significant changes in language and sentiment over time.
 5. Compare word usage between different political figures.
